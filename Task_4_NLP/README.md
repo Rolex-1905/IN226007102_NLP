@@ -97,7 +97,3 @@ Performance improves as more layers are fine-tuned.
 - Full fine-tuning yields best results but requires more resources
 
 ---
-
-## How to Run
-
-1. Clone the repository:
