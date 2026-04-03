@@ -10,8 +10,6 @@
 **Module:** NLP (Natural Language Processing)  
 **Organization:** Innomatics Research Labs  
 
-# NLP Chatbot using Hugging Face Transformers
-
 ## Project Overview
 This project is part of the Data Science Internship (February 2026) – NLP Task 3.
 
