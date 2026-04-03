@@ -145,7 +145,9 @@ Logistic Regression performs best on sparse, high-dimensional text features. It 
 ```
 Task_2_NLP/
 │
-└── sentiment_analysis.ipynb   ← Main notebook with all code and outputs
+└── sentiment_analysis.ipynb
+|
+└── README.md 
 ```
 
 ---
